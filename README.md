@@ -61,7 +61,10 @@ Uno de los mayores desafios fue la creacion de la identidad visual sin software 
   <em>Diseño de sprites en Excel.</em>
 </p>
 
----
+
+
+## Cómo ejecutar
+Descarga la versión estable desde la sección de [Releases](https://github.com/Mxim0-prog/Estancia-I-BOAT-GAME-/releases) y ejecuta `Bote.exe`.
 
 ## Arquitectura del Proyecto
 
@@ -81,9 +84,6 @@ La organización del repositorio sigue un estándar modular para facilitar el ma
 ## Evolución hacia B0AT-MOBILE (Estancia II)
 Este repositorio es el testimonio de mi crecimiento tecnico. Las lecciones aprendidas aqui sobre hitboxes, logica de estados, diseño de HUD, etc. Fueron un pilar fundamental para el desarrollo **B0AT** en mi Estancia II, donde migre a **Godot Engine** para una experiencia más robusta, su exportacion a dispositivos mobiles.
 
-
-## Cómo ejecutar
-Descarga la versión estable desde la sección de [Releases](https://github.com/Mxim0-prog/Estancia-I-BOAT-GAME-/releases) y ejecuta `Bote.exe`.
 
 ---
 <p align="center">
